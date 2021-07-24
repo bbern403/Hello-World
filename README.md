@@ -1,5 +1,4 @@
 # Hello-World
-Just a repository, nbd.
 
 This is my first repository.
 
